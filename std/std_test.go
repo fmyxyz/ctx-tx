@@ -6,7 +6,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/fmyxyz/tx/test"
+	"github.com/fmyxyz/ctx-tx/test"
 
 	_ "github.com/go-sql-driver/mysql"
 )

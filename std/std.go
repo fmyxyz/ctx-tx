@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/fmyxyz/tx"
+	tx "github.com/fmyxyz/ctx-tx"
 )
 
 var _ StdSQL = (*stdDB)(nil)

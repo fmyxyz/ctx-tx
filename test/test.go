@@ -5,7 +5,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/fmyxyz/tx"
+	tx "github.com/fmyxyz/ctx-tx"
 )
 
 /*

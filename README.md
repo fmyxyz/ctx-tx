@@ -30,8 +30,8 @@ import (
  "database/sql"
  "log"
 
- "github.com/fmyxyz/tx"
- "github.com/fmyxyz/tx/std"
+ tx "github.com/fmyxyz/ctx-tx"
+ "github.com/fmyxyz/ctx-tx/std"
 
  _ "github.com/go-sql-driver/mysql"
 )

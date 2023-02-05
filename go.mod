@@ -1,4 +1,4 @@
-module github.com/fmyxyz/tx
+module github.com/fmyxyz/ctx-tx
 
 go 1.18
 
