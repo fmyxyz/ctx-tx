@@ -49,9 +49,6 @@ func main() {
   if err != nil {
    return err
   }
-  if err != nil {
-   return err
-  }
   return nil
  })
  if err != nil {
