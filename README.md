@@ -67,3 +67,6 @@ func openDB() (db *sql.DB, err error) {
 ```
 
 ## 推荐使用 go1.18
+## 相关项目
+1. https://github.com/fmyxyz/ctx-tx-gorm
+2. https://github.com/fmyxyz/ctx-tx-xorm
